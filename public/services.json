@@ -1,0 +1,45 @@
+[
+    {
+      "service_id": "01",
+      "title": "Home Made Beef Burger",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkOSrCK7x3goo1ZP7SmHSvXq7tH3S5gRw58w&usqp=CAU",
+      "price": "250",
+      "description": "The classic burger is an all time BBQ favourite! This super easy homemade beef burger recipe gives you delicious patties, packed with onions and herbs for extra flavour, that are perfect for topping with cheese, lettuce and tomato, and sandwiching between floury buns."
+    },
+    {
+      "service_id": "02",
+      "title": "Pizza",
+      "img": "https://images.crateandbarrel.com/is/image/Crate/frame-margherita-pizza-1",
+      "price": "550",
+      "description": "pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot."
+    },
+    {
+      "service_id": "03",
+      "title": "Club Sandwich",
+      "img": "https://static.toiimg.com/thumb/83740315.cms?imgsize=361903&width=800&height=800",
+      "price": "200",
+      "description": "Club Sandwich as the name suggests is loaded with veggies. From bell peppers to lettuce, it has all your favorite vegetables stuffed inside toasted bread slices. The filling includes mayo and crispy potato slices. This meal is enough to keep you full for a longer duration and makes for a classic breakfast. On days, when you don't want to eat basic sandwich or eggs, Club Sandwich would be a life-saver! Do try out this amazing recipe and let us know if you enjoyed making one!"
+    },
+    {
+      "service_id": "04",
+      "title": "Veg Spring Rolls",
+      "img": "https://static.toiimg.com/thumb/53223294.cms?imgsize=93390&width=800&height=800",
+      "price": "150",
+      "description": "Veg Spring Rolls is one of the most popular Chinese snack recipe, prepared with fresh vegetables and spicy condiments. Even though, there's no special occasion required to relish and delve into the flavours of this easy Chinese recipe, however, if you are planning to host some house party, kitty party, birthday or anniversary party, then this drool-worthy recipe can make for a perfect party starter recipe. What makes this easy snack recipe even more interesting is the combination of healthy and delicious taste."
+    },
+    {
+      "service_id": "05",
+      "title": "Mutton Goli Biryani",
+      "img": "https://static.toiimg.com/thumb/84465974.cms?imgsize=390435&width=509&height=340",
+      "price": "650",
+      "description": "Mutton Goli Biryani or as you may call it Goli Bhaat is a popular Maharashtrian mutton biryani dish that is prepared by layering up biryani and mutton pieces. Mutton pieces are minced into meatballs and then added to the rice. The aroma of the spices added to the biryani is what makes it so appetizing and flavorful. If you're going to host an Eid party, this recipe should be on your menu."
+    },
+    {
+      "service_id": "06",
+      "title": "Veg Fried Rice",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSERcKocOCAEZu85moT4P8rQ3SjYESsGjpfcQ&usqp=CAU",
+      "price": "450",
+      "description": "Fried Rice is probably one of the most loved Chinese dishes that can easily be paired with a side dish of your choice. It is super easy to make and can satisfy your taste buds with a burst of flavours. A number of vegetables go into this recipe, which makes it super healthy. If you have some leftover rice from lunch and don't know how to use them up, this recipe is here for your rescue."
+    }
+  ]
+  
