@@ -1,12 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import Zoom from './Zoom.css'
 
 const ServiceCard = ({ service }) => {
     const { title, img, price, description, _id } = service;
     return (
         <div className="card card-compact w-64 bg-base-100 shadow-xl">
         <figure>
-          <img src={img} className="h-52" alt="Shoes" />
+          <img src={img} className="h-52 zoom" alt="Shoes" />
           
         </figure>
         <div className="card-body">
