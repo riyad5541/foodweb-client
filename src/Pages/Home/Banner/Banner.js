@@ -7,12 +7,12 @@ const Banner = () => {
             <div className="banner-container">
                 <div className="banner z-20">
                     <div className="pt-40 pl-20 z-40">
-                        <h2 className="text-white text-4xl font-bold">
+                        <h2 className="text-white text-5xl font-bold">
                             Family <br />
                             Favourite <br />
                             Recipes
                         </h2>
-                        <h5 className="text-white my-4 font-semibold">
+                        <h5 className="text-2xl text-white my-4 font-semibold">
                             AAR's Bake is the largest homemade <br /> food delivery platform.
                         </h5>
                     </div>
